@@ -27,4 +27,4 @@
 
 ## Фото
 
-![alt text](photo_2025-09-08_13-59-33.jpg)
+![photo_2025-09-08_13-59-33 (1)](https://github.com/user-attachments/assets/18791db6-996b-470a-bcb6-c2b94ac23d0d)
