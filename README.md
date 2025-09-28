@@ -21,7 +21,7 @@
 ## Проекты
 * [Тестирование и оптимизация модуля авторизации веб-сайта Henderson](https://docs.google.com/spreadsheets/d/1GAETNlSJz2eJEIeL5DVnxJOsgtrUOTH0E4gjDf7Q69I/edit?gid=1624089149#gid=1624089149)
 * Тестирование веб-формы заявки на банковскую карту «АЙТИ БАНК»
-* Проект который умеет рассчитывать ежемесячный платёж [CreditPaymentService](https://github.com/Sergey367843/CreditPaymentService/blob/main/src/Main.java>)
+* [CreditPaymentService](https://github.com/Sergey367843/CreditPaymentService/blob/main/src/Main.java>) Проект который умеет рассчитывать ежемесячный платёж
 * [BmiService](https://github.com/Sergey367843/BmiService/blob/main/src/Main.java)
 * 
 ## Контакты
