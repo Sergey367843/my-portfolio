@@ -20,10 +20,12 @@
 
 ## Проекты
 * [Тестирование и оптимизация модуля авторизации веб-сайта Henderson](https://docs.google.com/spreadsheets/d/1GAETNlSJz2eJEIeL5DVnxJOsgtrUOTH0E4gjDf7Q69I/edit?gid=1624089149#gid=1624089149)
-* Тестирование веб-формы заявки на банковскую карту «АЙТИ БАНК»
-* [CreditPaymentService](https://github.com/Sergey367843/CreditPaymentService/blob/main/src/Main.java>) Проект который умеет рассчитывать ежемесячный платёж
-* [BmiService](https://github.com/Sergey367843/BmiService/blob/main/src/Main.java)
-* 
+* [CreditPaymentService](https://github.com/Sergey367843/CreditPaymentService/blob/main/src/Main.java>) Сервис который умеет рассчитывать кредитный ежемесячный платёж.
+* [BmiService](https://github.com/Sergey367843/BmiService/blob/main/src/Main.java)  Сервис, который рассчитывает индекс массы тела (body mass index).
+* [BonusMilesService](https://github.com/Sergey367843/BonusMilesService/blob/main/src/Main.java) Приложение для расчёта миль.
+* [Приложение Калькулятор бонусов](https://github.com/Sergey367843/BonusMilesCalculator/blob/main/src/Main.java) Приложение, рассчитывающее количество начисленных миль за купленный билет.
+* [Система расчета бонусов](https://github.com/Sergey367843/BonusCalculationSystem/blob/main/src/Main.java)  Приложение, выводящее итоговый счёт и количество бонусных рублей
+
 ## Контакты
 
 *   **Email:** sdadqdq@gmail.com
